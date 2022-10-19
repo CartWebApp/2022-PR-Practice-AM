@@ -1,10 +1,41 @@
-# 2022 AM Pull Request Practice
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andrew Alvarez</title>
+</head>
+<body>
 
- 1. "Fork" this repository.
- 2. "Clone" your copy to your desktop.
- 3. Create an HTML file named like "lastname-firstname.html".
- 4. Edit your HTML file to include your name as the page title.
- 5. Include an ordered list of 3 things that you have learned in class this semester.
- 6. "Commit" the changes to your local copy.
- 7. "Push" your local commit(s) to GitHub
- 8. Open a "pull request" on the original repository to request that your changes are added to it.
+    <h1>What I've Learned This Semester</h1>
+
+    <ol>
+        <li>I learned about the basics of HTML and CSS.</li>
+        <li>I've learned how to use Visual Studio and now I am learning to use GitHub.</li>
+        <li>I have learned how to work with a team and get class projects done.</li>
+    </ol>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andrew Alvarez</title>
+</head>
+<body>
+
+    <h1>What I Want To Learn</h1>
+
+    <ol>
+        <li>I would like to learn about JavaScript.</li>
+        <li>I'd like to learn about the process of publishing a website.</li>
+        <li>I would also like to learn more about github.</li>
+    </ol>
+
+</body>
+</html>
